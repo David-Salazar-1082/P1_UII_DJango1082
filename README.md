@@ -14,6 +14,6 @@ Configuraciones basicas para trabajar con el framework de DJango
 - 9° Actualizar pip --> python -m pip install --upgrade pip
 - 10° Instalar DJango --> python -m pip install django
 - 11° Creando el proyecto --> django-admin startproject WebTRDC_proy.
-- 12° Realizar migracion al proyecto python manage.py migrate
+- 12° Realizar migracion al proyecto --> python manage.py migrate
 - 13° Ejecutar el servidor web --> python manage.py runserver
 - 14° Mi proyecto

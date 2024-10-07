@@ -3,7 +3,7 @@ Bestiario.
 Configuraciones basicas para trabajar con el framework de DJango
 
 ## Procedimiento
-- 1° Crear carpeta de trabajo TDRC1082
+- 1° Crear carpeta de trabajo TDRC_1082
 - 2° Abrir visual studio code desde la carpeta
 - 3° Abrir terminal de vs code
 - 4° Verificar que esta python y su version en terminal --> python --version
